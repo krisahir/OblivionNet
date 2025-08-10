@@ -34,5 +34,5 @@ This is a monumental task. We are looking for pioneers, thinkers, and builders i
 * Cryptography (Classical & Quantum)
 * Compiler & Language Design
 * Distributed Systems Engineering
-
+*Mail me on: krismakavana301@gmail.com
 Join us in building the future.
